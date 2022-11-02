@@ -1,5 +1,6 @@
-### Hi there 👋
-:zap:
+### Hi there 👋 :zap:
+I'm Amith an undergraduate student
+
 <div align>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomplayer2002&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002)
