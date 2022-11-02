@@ -1,5 +1,5 @@
 ### Hi there 👋 :zap:
-I'm Amith an undergraduate student
+I'm Amith an undergraduate college student
 
 <div align>
 
