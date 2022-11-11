@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I'm Amith an undergraduate college student.
-Data EnThUsIaSt :zap:
+DATA and WEB EnThUsIaSt :zap:
 
 <div align>
 
