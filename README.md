@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I'm Amith an undergraduate college student.
-DATA and WEB EnThUsIaSt :zap:
+DATA and WEB Enthusiast :zap:
 
 
 <!--<p>
