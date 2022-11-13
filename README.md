@@ -3,11 +3,11 @@ I'm Amith an undergraduate college student.
 DATA and WEB EnThUsIaSt :zap:
 
 
-<p>
+<!--<p>
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/amith-hathwar-153364207"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
-  
-</p>
+</p>-->
+
 <div align>
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomplayer2002&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002)
