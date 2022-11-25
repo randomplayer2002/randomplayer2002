@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Random Player an undergraduate college student.
+I'm Amith an undergraduate college student.
 DATA and WEB Enthusiast :zap:
 
 
