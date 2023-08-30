@@ -1,5 +1,5 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=randomplayer2002.randomplayer2002)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=randomplayer2002)
 <!--I'm Amith an undergraduate college student.
 DATA and WEB Enthusiast :zap:
 
