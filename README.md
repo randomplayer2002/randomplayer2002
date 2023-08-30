@@ -1,4 +1,5 @@
-### Hi there 👋 
+### Hi there 👋
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=randomplayer2002)
 <!--I'm Amith an undergraduate college student.
 DATA and WEB Enthusiast :zap:
 
