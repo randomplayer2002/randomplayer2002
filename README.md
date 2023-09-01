@@ -14,7 +14,7 @@ DATA and WEB Enthusiast. Passionate about web design and adaptable learner with 
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
-<a href=https://github.com/randomplayer2002a><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
  + C/C++
  + Python
