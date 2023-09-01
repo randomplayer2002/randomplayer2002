@@ -3,7 +3,7 @@
 I'm Amith an undergraduate college student.
 DATA and WEB Enthusiast :zap:
 
-[visitors](https://visitor-badge.laobi.icu/badge?page_id=randomplayer2002)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=randomplayer2002)
 <p>
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/amith-hathwar-153364207"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
