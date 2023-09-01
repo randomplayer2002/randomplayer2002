@@ -10,7 +10,7 @@ DATA and WEB Enthusiast :zap:
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomplayer2002&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomplayer2002&layout=compact&theme=tokyonight&line_height=27_width=30)](https://github.com/randomplayer2002/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomplayer2002&layout=compact&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002/github-readme-stats) 
  
- [![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?]username=randomplayer2002&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)
+ ![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=randomplayer2002&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)
 
