@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Amith an undergraduate college student.
-DATA and WEB Enthusiast :zap:
+DATA and WEB Enthusiast. Passionate about web design and adaptable learner with a keen interest in technologies. :zap:
 
 
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
