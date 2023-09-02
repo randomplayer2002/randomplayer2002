@@ -7,6 +7,11 @@ DATA and WEB Enthusiast. Passionate about web design and adaptable learner with 
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/amith-hathwar-153364207"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=randomplayer2002)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/randomplayer2002/count.svg" />
+</p>
+
 <hr>
    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 <h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "27px">  </h1>
