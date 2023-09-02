@@ -6,8 +6,10 @@ DATA and WEB Enthusiast. Passionate about web design and adaptable learner with 
 
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/amith-hathwar-153364207"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=randomplayer2002)
-
+  <p align="right"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/randomplayer2002/count.svg" />
+  </p>
 
 <hr>
    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
@@ -18,10 +20,7 @@ DATA and WEB Enthusiast. Passionate about web design and adaptable learner with 
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
- <p align="right"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/randomplayer2002/count.svg" />
-</p>
+
  + C/C++
  + Python
  + HTML5
