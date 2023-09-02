@@ -11,7 +11,7 @@ DATA and WEB Enthusiast. Passionate about web design and adaptable learner with 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/randomplayer2002/count.svg" />
 </p>
-
+<img src="https://profile-counter.glitch.me/randomplayer2002/count.svg" />
 <hr>
    <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="250" />
 <h1> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "27px">  </h1>
