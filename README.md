@@ -20,6 +20,7 @@ DATA and WEB Enthusiast. Passionate about web design and data analysis, an adapt
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'></a>
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'></a>
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'></a>
+<a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'></a>
 <a href=https://github.com/randomplayer2002><img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
 
  + C/C++
