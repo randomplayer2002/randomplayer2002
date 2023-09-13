@@ -3,7 +3,7 @@
 I'm Amith an undergraduate college student.
 DATA and WEB Enthusiast. Passionate about web design and data analysis, an adaptable learner with a keen interest in technologies. :zap:
 
-![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/amith-hathwar-153364207"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <p align="center"> 
