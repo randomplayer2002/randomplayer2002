@@ -3,7 +3,7 @@
 I'm Amith an undergraduate college student.
 DATA and WEB Enthusiast. Passionate about web design and data analysis, an adaptable learner with a keen interest in technologies. :zap:
 
-
+![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&include_all_commits=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/amith-hathwar-153364207"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <p align="center"> 
@@ -30,8 +30,8 @@ DATA and WEB Enthusiast. Passionate about web design and data analysis, an adapt
  + JavaScript
  + Java
 <hr>
-[![Github Stats](https://github- readmestats.vercel.app/apicount_private=true&include_all_commits=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/randomplayer2002)
-<!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomplayer2002&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomplayer2002&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomplayer2002&layout=compact&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002/github-readme-stats)-->
  
