@@ -30,7 +30,7 @@ DATA and WEB Enthusiast. Passionate about web design and data analysis, an adapt
  + JavaScript
  + Java
 <hr>
-[![Github Stats](https://github- readmestats.vercel.app/apicount_private=true&include_all_commits=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)] 
+[![Github Stats](https://github- readmestats.vercel.app/apicount_private=true&include_all_commits=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/randomplayer2002)
 <!--[![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomplayer2002&show_icons=true&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomplayer2002&layout=compact&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002/github-readme-stats)-->
