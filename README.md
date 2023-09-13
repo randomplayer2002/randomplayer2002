@@ -37,4 +37,5 @@ DATA and WEB Enthusiast. Passionate about web design and data analysis, an adapt
  
 <!--![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=randomplayer2002&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)-->
 ![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+<br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=randomplayer2002&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
