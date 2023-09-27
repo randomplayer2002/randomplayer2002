@@ -1,14 +1,17 @@
 ### Hi there 👋
-
+<!--
 I'm Amith an undergraduate college student.
 DATA and WEB Enthusiast. Passionate about web design and data analysis, an adaptable learner with a keen interest in technologies. :zap:
 
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
   <a href="https://www.linkedin.com/in/amith-hathwar-153364207"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-  <!--<p align="center">
+  <!--
+  <p align="center">
   <a href="https://stars.github.com/profiles/denvercoder1/">
     <img src="https://i.imgur.com/q1PV6pF.png" alt="GitHub Star 2023"/></a>
-</p>-->
+</p>
+-->
+<!--
   <p align="center"> 
   VISITORS COUNT<br>
   <img src="https://profile-counter.glitch.me/randomplayer2002/count.svg" />
@@ -39,6 +42,8 @@ DATA and WEB Enthusiast. Passionate about web design and data analysis, an adapt
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomplayer2002&layout=compact&theme=tokyonight&line_height=27)](https://github.com/randomplayer2002/github-readme-stats)-->
  
 <!--![Github Contribution Graph](https://activity-graph.herokuapp.com/graph?username=randomplayer2002&bg_color=1a1b26&color=73daca&line=7dcfff&point=bb9af7&area=true&hide_border=true)-->
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?count_private=true&username=randomplayer2002&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=randomplayer2002&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-->
