@@ -50,5 +50,5 @@ DATA and WEB Enthusiast. Passionate about web design and data analysis, an adapt
 -->
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="randomplayer2002/github-snake.svg)" alt="snake"/>
 </p>
