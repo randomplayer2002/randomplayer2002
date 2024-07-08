@@ -48,7 +48,8 @@ DATA and WEB Enthusiast. Passionate about web design and data analysis, an adapt
 <br>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=randomplayer2002&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 -->
-
+<!--
 <p align="center">
  <img width="1000" src="github-snake.svg" alt="snake"/>
 </p>
+-->
