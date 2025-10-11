@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=randomplayer2002&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 <!--
-I'm Amith an undergraduate college student.
+I'm Amith, an undergraduate college student.
 DATA and WEB Enthusiast. Passionate about web design and data analysis, an adaptable learner with a keen interest in technologies. :zap:
 
   <a href="https://twitter.com/AmithHathwar"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> 
